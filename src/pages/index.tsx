@@ -315,7 +315,7 @@ const Theme = () => {
           <span className="databaseSub">
             {' '}
             ... and any other SQLAlchemy{' '}
-            <a href="https://superset.incubator.apache.org/installation.html#database-dependencies">
+            <a href="/docs/databases/installing-database-drivers">
               {' '}
               compatible data source.{' '}
             </a>{' '}
